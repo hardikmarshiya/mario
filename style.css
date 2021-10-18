@@ -1,0 +1,50 @@
+h4{
+
+    background-color: white;
+    line-height: 2;
+    margin: 0px;
+
+}
+.model-dialog{
+
+    width: 90%;
+}
+.instruction_image{
+
+    display: inline;
+    width:45% ;
+}
+.heading{
+
+    width: 100%;
+    text-align: left;
+
+}
+h3{
+
+    display: inline;
+}
+.big_image{
+
+    width: 100%;
+
+
+}
+#start,#status
+{
+
+    font-size: 22px;
+
+}
+video{
+
+    background : url('game_console.png');
+   background-size: cover; 
+   background-position: center;
+   padding: 25px;
+   
+}
+canvas{
+
+    box-shadow: white 10px;
+}
